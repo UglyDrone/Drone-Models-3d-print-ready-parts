@@ -1,7 +1,9 @@
 # CAD models and ready-to-print 3D parts for the UglyDrone platform.
 
-IMPORTANT USE THIS LINK TO ACCESS AND MODIFY ANY FILE THAT YOU NEED: https://cad.onshape.com/documents/f8673177ddbb70b4cac0fd16/w/04bc7065ca4259a18f0d2250/e/3456e933f8e919df9e53002f
-
+<p align="center">
+  <strong>IMPORTANT</strong><br />
+  If you want to modify models for your own needs, use <a href="https://cad.onshape.com/documents/f8673177ddbb70b4cac0fd16/w/04bc7065ca4259a18f0d2250/e/3456e933f8e919df9e53002f?configuration=default&renderMode=0&uiState=69b3a248f757ff259edbaccb">this link</a>.
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Assembly drawing.svg">
