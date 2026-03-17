@@ -42,11 +42,6 @@ The `drone-parts` section adds GitHub-ready drawing pages with SVG previews that
 
 - [Front Module Frame](./drone-parts/front-module-frame/)
 
-### Connectors
-
-- [Male Connector](./drone-parts/male-connector/)
-- [Female Connector](./drone-parts/female-connector/)
-
 ## Drawing Preview Gallery
 
 ### Body of Drone
@@ -126,32 +121,6 @@ Placeholder summary: replace this text with the final overview for the battery m
 </p>
 
 Placeholder summary: replace this text with the final overview for the front module frame.
-
-### Connectors
-
-#### [Male Connector](./drone-parts/male-connector/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/male-connector/assets/top-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/male-connector/assets/top-view-light.svg">
-    <img alt="Male Connector top view drawing" src="./drone-parts/male-connector/assets/top-view-light.svg" width="720">
-  </picture>
-</p>
-
-Placeholder summary: replace this text with the final overview for the male connector.
-
-#### [Female Connector](./drone-parts/female-connector/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/female-connector/assets/isometric-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/female-connector/assets/isometric-view-light.svg">
-    <img alt="Female Connector isometric view drawing" src="./drone-parts/female-connector/assets/isometric-view-light.svg" width="720">
-  </picture>
-</p>
-
-Placeholder summary: replace this text with the final overview for the female connector.
 
 ## Editing Notes
 
