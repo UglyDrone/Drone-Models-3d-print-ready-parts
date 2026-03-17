@@ -26,24 +26,32 @@ This repository contains printable parts and reference drawings for the drone pr
 
 ## Reference Drawings
 
-Placeholder summary: replace this text with the final overview for the front module frame.
-
-
 The `drone-parts` section adds GitHub-ready drawing pages with SVG previews that stay readable in both light and dark GitHub themes.
 
-- [Battery Module Main Case](./drone-parts/battery-module-main-case/)
-- [ESC on Wing](./drone-parts/esc-on-wing/)
+### Body of Drone
+
 - [Frame](./drone-parts/frame/)
 - [Frame Lid](./drone-parts/frame-lid/)
+- [ESC on Wing](./drone-parts/esc-on-wing/)
+
+### Battery Frame
+
+- [Battery Module Main Case](./drone-parts/battery-module-main-case/)
+
+### Front Module
+
 - [Front Module Frame](./drone-parts/front-module-frame/)
+
+### Connectors
+
 - [Male Connector](./drone-parts/male-connector/)
 - [Female Connector](./drone-parts/female-connector/)
 
 ## Drawing Preview Gallery
 
-Placeholder summary: replace this text with the final overview for the battery module main case.
+### Body of Drone
 
-### [Frame](./drone-parts/frame/)
+#### [Frame](./drone-parts/frame/)
 
 <p align="center">
   <picture>
@@ -55,7 +63,7 @@ Placeholder summary: replace this text with the final overview for the battery m
 
 Placeholder summary: replace this text with the final overview for the main frame.
 
-### [Frame Lid](./drone-parts/frame-lid/)
+#### [Frame Lid](./drone-parts/frame-lid/)
 
 <p align="center">
   <picture>
@@ -67,10 +75,9 @@ Placeholder summary: replace this text with the final overview for the main fram
 
 Placeholder summary: replace this text with the final overview for the frame lid.
 
+#### [ESC on Wing](./drone-parts/esc-on-wing/)
 
-### [ESC on Wing](./drone-parts/esc-on-wing/)
-
-#### Front View
+##### Front View
 
 <p align="center">
   <picture>
@@ -80,7 +87,7 @@ Placeholder summary: replace this text with the final overview for the frame lid
   </picture>
 </p>
 
-#### Rear View
+##### Rear View
 
 <p align="center">
   <picture>
@@ -92,17 +99,9 @@ Placeholder summary: replace this text with the final overview for the frame lid
 
 Placeholder summary: replace this text with the final overview for the ESC-on-wing assembly.
 
-### [Front Module Frame](./drone-parts/front-module-frame/)
+### Battery Frame
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/front-module-frame/assets/drawing-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/front-module-frame/assets/drawing-light.svg">
-    <img alt="Front Module Frame drawing" src="./drone-parts/front-module-frame/assets/drawing-light.svg" width="820">
-  </picture>
-</p>
-
-### [Battery Module Main Case](./drone-parts/battery-module-main-case/)
+#### [Battery Module Main Case](./drone-parts/battery-module-main-case/)
 
 <p align="center">
   <picture>
@@ -112,3 +111,48 @@ Placeholder summary: replace this text with the final overview for the ESC-on-wi
   </picture>
 </p>
 
+Placeholder summary: replace this text with the final overview for the battery module main case.
+
+### Front Module
+
+#### [Front Module Frame](./drone-parts/front-module-frame/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/front-module-frame/assets/drawing-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/front-module-frame/assets/drawing-light.svg">
+    <img alt="Front Module Frame drawing" src="./drone-parts/front-module-frame/assets/drawing-light.svg" width="820">
+  </picture>
+</p>
+
+Placeholder summary: replace this text with the final overview for the front module frame.
+
+### Connectors
+
+#### [Male Connector](./drone-parts/male-connector/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/male-connector/assets/top-view-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/male-connector/assets/top-view-light.svg">
+    <img alt="Male Connector top view drawing" src="./drone-parts/male-connector/assets/top-view-light.svg" width="720">
+  </picture>
+</p>
+
+Placeholder summary: replace this text with the final overview for the male connector.
+
+#### [Female Connector](./drone-parts/female-connector/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/female-connector/assets/isometric-view-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/female-connector/assets/isometric-view-light.svg">
+    <img alt="Female Connector isometric view drawing" src="./drone-parts/female-connector/assets/isometric-view-light.svg" width="720">
+  </picture>
+</p>
+
+Placeholder summary: replace this text with the final overview for the female connector.
+
+## Editing Notes
+
+Replace the placeholder summary text in this file and the `Description` sections inside each part README when you are ready to add the real part documentation.
