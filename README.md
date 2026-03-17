@@ -110,30 +110,3 @@ Placeholder summary: replace this text with the final overview for the frame lid
 
 Placeholder summary: replace this text with the final overview for the front module frame.
 
-### [Male Connector](./drone-parts/male-connector/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/male-connector/assets/top-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/male-connector/assets/top-view-light.svg">
-    <img alt="Male Connector top view drawing" src="./drone-parts/male-connector/assets/top-view-light.svg" width="720">
-  </picture>
-</p>
-
-Placeholder summary: replace this text with the final overview for the male connector.
-
-### [Female Connector](./drone-parts/female-connector/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/female-connector/assets/isometric-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/female-connector/assets/isometric-view-light.svg">
-    <img alt="Female Connector isometric view drawing" src="./drone-parts/female-connector/assets/isometric-view-light.svg" width="720">
-  </picture>
-</p>
-
-Placeholder summary: replace this text with the final overview for the female connector.
-
-## Editing Notes
-
-Replace the placeholder summary text in this file and the `Description` sections inside each part README when you are ready to add the real part documentation.
