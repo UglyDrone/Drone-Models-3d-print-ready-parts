@@ -52,11 +52,23 @@ Placeholder summary: replace this text with the final overview for the battery m
 
 ### [ESC on Wing](./drone-parts/esc-on-wing/)
 
+#### Front View
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/front-view-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/front-view-light.svg">
     <img alt="ESC on Wing front view drawing" src="./drone-parts/esc-on-wing/assets/front-view-light.svg" width="820">
+  </picture>
+</p>
+
+#### Rear View
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/rear-view-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/rear-view-light.svg">
+    <img alt="ESC on Wing rear view drawing" src="./drone-parts/esc-on-wing/assets/rear-view-light.svg" width="820">
   </picture>
 </p>
 
