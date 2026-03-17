@@ -26,6 +26,9 @@ This repository contains printable parts and reference drawings for the drone pr
 
 ## Reference Drawings
 
+Placeholder summary: replace this text with the final overview for the front module frame.
+
+
 The `drone-parts` section adds GitHub-ready drawing pages with SVG previews that stay readable in both light and dark GitHub themes.
 
 - [Battery Module Main Case](./drone-parts/battery-module-main-case/)
@@ -38,41 +41,7 @@ The `drone-parts` section adds GitHub-ready drawing pages with SVG previews that
 
 ## Drawing Preview Gallery
 
-### [Battery Module Main Case](./drone-parts/battery-module-main-case/)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/battery-module-main-case/assets/drawing-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/battery-module-main-case/assets/drawing-light.svg">
-    <img alt="Battery Module Main Case drawing" src="./drone-parts/battery-module-main-case/assets/drawing-light.svg" width="820">
-  </picture>
-</p>
-
 Placeholder summary: replace this text with the final overview for the battery module main case.
-
-### [ESC on Wing](./drone-parts/esc-on-wing/)
-
-#### Front View
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/front-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/front-view-light.svg">
-    <img alt="ESC on Wing front view drawing" src="./drone-parts/esc-on-wing/assets/front-view-light.svg" width="820">
-  </picture>
-</p>
-
-#### Rear View
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/rear-view-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/rear-view-light.svg">
-    <img alt="ESC on Wing rear view drawing" src="./drone-parts/esc-on-wing/assets/rear-view-light.svg" width="820">
-  </picture>
-</p>
-
-Placeholder summary: replace this text with the final overview for the ESC-on-wing assembly.
 
 ### [Frame](./drone-parts/frame/)
 
@@ -98,6 +67,31 @@ Placeholder summary: replace this text with the final overview for the main fram
 
 Placeholder summary: replace this text with the final overview for the frame lid.
 
+
+### [ESC on Wing](./drone-parts/esc-on-wing/)
+
+#### Front View
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/front-view-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/front-view-light.svg">
+    <img alt="ESC on Wing front view drawing" src="./drone-parts/esc-on-wing/assets/front-view-light.svg" width="820">
+  </picture>
+</p>
+
+#### Rear View
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/esc-on-wing/assets/rear-view-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/esc-on-wing/assets/rear-view-light.svg">
+    <img alt="ESC on Wing rear view drawing" src="./drone-parts/esc-on-wing/assets/rear-view-light.svg" width="820">
+  </picture>
+</p>
+
+Placeholder summary: replace this text with the final overview for the ESC-on-wing assembly.
+
 ### [Front Module Frame](./drone-parts/front-module-frame/)
 
 <p align="center">
@@ -108,5 +102,13 @@ Placeholder summary: replace this text with the final overview for the frame lid
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the front module frame.
+### [Battery Module Main Case](./drone-parts/battery-module-main-case/)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./drone-parts/battery-module-main-case/assets/drawing-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./drone-parts/battery-module-main-case/assets/drawing-light.svg">
+    <img alt="Battery Module Main Case drawing" src="./drone-parts/battery-module-main-case/assets/drawing-light.svg" width="820">
+  </picture>
+</p>
 
