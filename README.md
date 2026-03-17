@@ -11,9 +11,9 @@ This repository contains printable parts and reference drawings for the drone pr
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Assembly drawing.svg">
-    <source media="(prefers-color-scheme: light)" srcset="Assembly drawing.svg">
-    <img src="Assembly drawing.svg" alt="Assembly drawing exported from a CAD model" width="900" />
+    <source media="(prefers-color-scheme: dark)" srcset="Assembly drawing-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="Assembly drawing-light.svg">
+    <img src="Assembly drawing-light.svg" alt="Assembly drawing exported from a CAD model" width="900" />
   </picture>
 </p>
 
