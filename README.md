@@ -56,7 +56,7 @@ The `drone-parts` section adds GitHub-ready drawing pages with SVG previews that
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the main frame.
+Slice with supports, ideal plastic is PLA or PLA+
 
 #### [Frame Lid](./drone-parts/frame-lid/)
 
@@ -68,7 +68,6 @@ Placeholder summary: replace this text with the final overview for the main fram
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the frame lid.
 
 #### [ESC on Wing](./drone-parts/esc-on-wing/)
 
@@ -92,7 +91,7 @@ Placeholder summary: replace this text with the final overview for the frame lid
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the ESC-on-wing assembly.
+Arms are good to print with PLA, for 3115 motors consider PETG to reduce flexibility
 
 ### Battery Frame
 
@@ -106,7 +105,7 @@ Placeholder summary: replace this text with the final overview for the ESC-on-wi
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the battery module main case.
+PLA/PLA+
 
 ### Front Module
 
@@ -120,7 +119,7 @@ Placeholder summary: replace this text with the final overview for the battery m
   </picture>
 </p>
 
-Placeholder summary: replace this text with the final overview for the front module frame.
+PLA/PLA+
 
 ## Editing Notes
 
