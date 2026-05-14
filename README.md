@@ -6,9 +6,9 @@ Welcome to the 3D printable parts repository. We have 3 main platforms in this p
   <a href="./Drone">
     <h2>Drone Platform</h2>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Drone/UglyDrone_Main-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./Drone/UglyDrone_Main-light.svg">
-      <img src="./Drone/UglyDrone_Main-light.svg" alt="Drone Platform" width="80%">
+      <source media="(prefers-color-scheme: dark)" srcset="./Drone/UglyDrone%20--%20Main-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./Drone/UglyDrone%20--%20Main-light.svg">
+      <img src="./Drone/UglyDrone%20--%20Main-light.svg" alt="Drone Platform" width="80%">
     </picture>
   </a>
   
@@ -17,9 +17,9 @@ Welcome to the 3D printable parts repository. We have 3 main platforms in this p
   <a href="./Rover">
     <h2>Rover Platform</h2>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Rover/Rover_Concept-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./Rover/Rover_Concept-light.svg">
-      <img src="./Rover/Rover_Concept-light.svg" alt="Rover Platform" width="80%">
+      <source media="(prefers-color-scheme: dark)" srcset="./Rover/Rover%20Concept-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./Rover/Rover%20Concept-light.svg">
+      <img src="./Rover/Rover%20Concept-light.svg" alt="Rover Platform" width="80%">
     </picture>
   </a>
 
@@ -28,9 +28,9 @@ Welcome to the 3D printable parts repository. We have 3 main platforms in this p
   <a href="./Dropper">
     <h2>Dropper Platform</h2>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Dropper/Dropping_System-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./Dropper/Dropping_System-light.svg">
-      <img src="./Dropper/Dropping_System-light.svg" alt="Dropper Platform" width="80%">
+      <source media="(prefers-color-scheme: dark)" srcset="./Dropper/Dropping%20System-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./Dropper/Dropping%20System-light.svg">
+      <img src="./Dropper/Dropping%20System-light.svg" alt="Dropper Platform" width="80%">
     </picture>
   </a>
 </div>
