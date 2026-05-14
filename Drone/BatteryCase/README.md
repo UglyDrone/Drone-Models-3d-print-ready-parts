@@ -1,14 +1,17 @@
 # BatteryCase
 
-Here are the 3D models for the BatteryCase.
+## Overview
 
-- **Download Model**: [BatteryCase.step](./BatteryCase.step)
-
-## Drawings
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./BatteryCase-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./BatteryCase-light.svg">
   <img src="./BatteryCase-light.svg" width="800">
 </picture>
-<br><br>
+<br>
+</p>
+
+## Downloadable Models
+
+- [BatteryCase.step](./BatteryCase.step)
+
