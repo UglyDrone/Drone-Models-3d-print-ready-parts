@@ -5,33 +5,33 @@ Click on any platform below to browse its components.
 
 <div align="center">
 
+<h2><a href="./Drone">Drone Platform</a></h2>
 <a href="./Drone">
-<h2>Drone Platform</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Drone/UglyDrone%20--%20Main-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Drone/UglyDrone%20--%20Main-light.svg">
-  <img src="./Drone/UglyDrone%20--%20Main-light.svg" width="80%">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Drone/UglyDrone%20--%20Main-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./Drone/UglyDrone%20--%20Main-light.svg">
+    <img src="./Drone/UglyDrone%20--%20Main-light.svg" alt="Click to browse Drone Platform" width="80%">
+  </picture>
 </a>
 <br><br>
 
+<h2><a href="./Rover">Rover Platform</a></h2>
 <a href="./Rover">
-<h2>Rover Platform</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Rover/Rover%20Concept-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Rover/Rover%20Concept-light.svg">
-  <img src="./Rover/Rover%20Concept-light.svg" width="80%">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Rover/Rover%20Concept-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./Rover/Rover%20Concept-light.svg">
+    <img src="./Rover/Rover%20Concept-light.svg" alt="Click to browse Rover Platform" width="80%">
+  </picture>
 </a>
 <br><br>
 
+<h2><a href="./Dropper">Dropper Platform</a></h2>
 <a href="./Dropper">
-<h2>Dropper Platform</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Dropper/Dropping%20System-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Dropper/Dropping%20System-light.svg">
-  <img src="./Dropper/Dropping%20System-light.svg" width="80%">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Dropper/Dropping%20System-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./Dropper/Dropping%20System-light.svg">
+    <img src="./Dropper/Dropping%20System-light.svg" alt="Click to browse Dropper Platform" width="80%">
+  </picture>
 </a>
 <br><br>
 
