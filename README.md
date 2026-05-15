@@ -5,7 +5,7 @@ Click on any platform below to browse its components.
 
 <div align="center">
 
-<h2><a href="./Drone">Drone Platform</a></h2>
+<h2><a href="./Drone">UglyDrone</a></h2>
 <a href="./Drone">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Drone/UglyDrone%20--%20Main-dark.svg">
@@ -15,7 +15,7 @@ Click on any platform below to browse its components.
 </a>
 <br><br>
 
-<h2><a href="./Rover">Rover Platform</a></h2>
+<h2><a href="./Rover">UglyRover</a></h2>
 <a href="./Rover">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Rover/Rover%20Concept-dark.svg">
