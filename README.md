@@ -25,7 +25,7 @@ Click on any platform below to browse its components.
 </a>
 <br><br>
 
-<h2><a href="./Dropper">Dropper Platform</a></h2>
+<h2><a href="./Dropper">Dropper</a></h2>
 <a href="./Dropper">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Dropper/Dropping%20System-dark.svg">
